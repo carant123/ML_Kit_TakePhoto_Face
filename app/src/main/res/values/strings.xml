@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Take Photo Face</string>
+    <string name="title">Taking Photo by detecting the face</string>
+    <string name="most_smile">Take Photo</string>
+</resources>
